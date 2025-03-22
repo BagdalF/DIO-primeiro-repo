@@ -3,10 +3,10 @@ Este repositório foi criado como parte de um desafio prático para reforçar o 
 
 ### O que você encontrará aqui?
 
-✅ Inicialização e configuração de um repositório Git
-✅ Uso de commits para versionamento do código
-✅ Sincronização do repositório local com o GitHub
-✅ Anotações e exercícios sobre Git
+- ✅ Inicialização e configuração de um repositório Git
+- ✅ Uso de commits para versionamento do código
+- ✅ Sincronização do repositório local com o GitHub
+- ✅ Anotações e exercícios sobre Git
 
 ### Objetivo
 
